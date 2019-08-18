@@ -14,7 +14,7 @@
     background: url(../img/background.jpg);
     background-size: cover;
     min-height: 500px;
-    border: #8e44ad solid;
+    border: #8b6a99 solid;
 }
 .background-overlay{
     position: absolute;
@@ -36,6 +36,6 @@
     box-shadow: 2px 2px 5px #8e44ad;
     opacity: .9;
 }
-.center{
+/*.center{
     background-color: #8e44ad;
-}
+} */
